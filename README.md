@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">🚗 Driver AI Assistant System</h1>
+<h1 align="center">🚗 AI Driver Assistant System</h1>
 
 <p align="center">
   <b>Real-Time Intelligent Driver Safety System using Computer Vision & YOLOv8</b>
@@ -49,17 +49,20 @@ A **multi-model AI system** that:
 ## 🧠 System Architecture
 
 Input:
- ├── Driver Camera
- └── Road Camera
+│
+├── Driver Camera
+└── Road Camera
 
 Processing:
- ├── Drowsiness Detection Model
- ├── Traffic Sign & object detection Model
- └── Road Hazard Detection Model
+│
+├── Drowsiness Detection Model
+├── Traffic Sign & Object Detection Model
+└── Road Hazard Detection Model
 
 Output:
- ├── Visual Alerts (GUI)
- └── Audio Alerts
+│
+├── Visual Alerts (GUI)
+└── Audio Alerts
 
  ---
 
